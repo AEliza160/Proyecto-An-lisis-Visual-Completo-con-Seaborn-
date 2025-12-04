@@ -64,6 +64,7 @@ Matplotlib
 Seaborn
 
 Google Colab
+
 6. Cómo Ejecutarlo
 
 Descargar o clonar el repositorio
